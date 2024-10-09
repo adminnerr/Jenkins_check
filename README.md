@@ -6,3 +6,5 @@
 2.打开程序，选择urls.txt,点击run
 3.等待，脚本运行完会生成vuln.txt
 
+效果：
+![image]https://github.com/adminnerr/Jenkins_check/blob/main/jkk.PNG
