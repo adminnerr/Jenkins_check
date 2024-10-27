@@ -8,3 +8,6 @@
 
 效果：
 ![image]https://github.com/adminnerr/Jenkins_check/blob/main/jkk.PNG
+
+
+此项目为开源项目，仅提供与学习。请勿用于违法行为，造成的违法行为与本人无关。
